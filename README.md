@@ -1,6 +1,10 @@
-# final-MLII:
+# FINAL-MLII:
 
 This repository contains workshop 3 of the Machine Learning II UdeA subject
+
+Student:
+Christian Daniel España Chamorro
+C.C. 1085300571
 
 
 # requirements:
