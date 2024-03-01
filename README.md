@@ -5,8 +5,8 @@ This repository contains workshop 3 of the Machine Learning II UdeA subject
 
 # requirements:
 
-!pip install transformers
-!pip install Flask
+- !pip install transformers
+- !pip install Flask
 
 # Architecture
 - qa_module.py: Contains the development of question answering system.
